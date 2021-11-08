@@ -1,2 +1,29 @@
-# Analisis_Datos_Twitter_rtweet
-mismos analisis que en el repositorio Analisis_Datos_Twitter_Tweepy
+### Instalar los paquetes
+
+```
+    install.packages("rtweet")
+```
+
+
+```
+    install.packages("ggplot2")
+```
+
+
+```
+    install.packages("tidytext")
+```
+
+
+```
+    install.packages("tidyverse")
+```
+
+
+```
+    install.packages("dplyr")
+```
+
+### Ejecutar el código
+
+Solo se debe abrir el proyecto r.Rproj o ejecutar main.R
